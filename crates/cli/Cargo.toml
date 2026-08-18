@@ -1,0 +1,20 @@
+[package]
+name = "aitool-cli"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[[bin]]
+name = "aitool"
+path = "src/main.rs"
+
+[dependencies]
+aitool-agent = { path = "../agent" }
+aitool-tools = { path = "../tools" }
+anyhow.workspace = true
+clap.workspace = true
+serde_json.workspace = true
+tokio.workspace = true
+tracing.workspace = true
+tracing-subscriber.workspace = true
+
