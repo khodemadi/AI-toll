@@ -1,1 +1,0 @@
-/home/madi/w/AI-toll/target/debug/aitool: /home/madi/w/AI-toll/crates/agent/src/lib.rs /home/madi/w/AI-toll/crates/cli/src/main.rs /home/madi/w/AI-toll/crates/core/src/lib.rs /home/madi/w/AI-toll/crates/tools/src/filesystem.rs /home/madi/w/AI-toll/crates/tools/src/lib.rs /home/madi/w/AI-toll/crates/tools/src/shell.rs
